@@ -1,0 +1,6 @@
+.container {
+    background-image: url('https://img.freepik.com/vetores-gratis/vetor-de-fundo-de-tecnologia-digital-com-borda-de-hexagono-em-tom-roxo-escuro_53876-126069.jpg');
+    background-size: cover; /* Isso ajusta a imagem para cobrir todo o contêiner */
+    background-repeat: no-repeat; /* Isso evita a repetição da imagem */
+    /* Outros estilos conforme necessário */
+}
